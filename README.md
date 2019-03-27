@@ -45,12 +45,15 @@ This is about how the Credential is protected from compromise.
 
 **2**
 
-Elliptic Curve Cryptography is generally considered a highly effective way of preventing prediction, duplication without direct access, tampering of a private key. Users would need to be aware of their responsibility to take the appropriate measures to protect their private keys.
-Need to check NIST SP 800-63-2 (reference(c)) and FIPS 140-2 Level 3 (reference(d))
+- Elliptic Curve Cryptography is generally considered a highly effective way of preventing prediction, duplication without direct access, tampering of a private key. Users would need to be aware of their responsibility to take the appropriate measures to protect their private keys.
+
+- Need to check NIST SP 800-63-2 (reference(c)) and FIPS 140-2 Level 3 (reference(d))
 
 **3**
-The user has the choice of products and services to prevent duplication, detect and prevent tampering and use algorithms meeting FIPS 140-2 Level 3 (reference(d))
-Of course a question has to be raised of whether the user can be trusted to take responsibility for this and whether an Identity Provider is considered my trustworthy.
+
+- The user has the choice of products and services to prevent duplication, detect and prevent tampering and use algorithms meeting FIPS 140-2 Level 3 (reference(d))
+
+- Of course a question has to be raised of whether the user can be trusted to take responsibility for this and whether an Identity Provider is considered my trustworthy.
 
 **Assessment: Score 3 = Level 3**
 
