@@ -83,5 +83,6 @@ The criteria for assessment for managing a credential has a significant bias to 
 - if the user has chosen a tool from a manufacturer it is their choice and can only be advised to ensure their vendor has an independently certified quality management process
 - again, the user choses the vendor for their Credential creation and management and can only be advised to chose one that has an independent certification for its information security management system. In this case it might be assurance that the random number generator has sufficient entropy.
 
+> Now it is difficult to score. Who is responsible here? Who and what is being assessed? Can a user be responsible for any of these assesment criteria or does it need to be a trusted entity?
 
-
+**Assessment: Score ? = Level ?**
