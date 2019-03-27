@@ -113,6 +113,7 @@ This relates to monitoring the use of a Credential.
 **3**
 - a new HMG service would be required to report compromised public key Credentials but that could be easily implemented with a smart contract containing a black list on the blockchain.
 
+> What does it mean for no other entity, other than the Credential controller, owner or imposter, to be able to destroy a Credential ? Is it a good characteristic that there is no authentication behaviour? 
 
-
+**Assessment: Score 3 = Level 3**
 
