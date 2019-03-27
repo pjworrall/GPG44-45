@@ -96,3 +96,12 @@ The criteria for assessment for managing a credential has a significant bias to 
 > Now it is difficult to score. Who is responsible here? Who and what is being assessed? Can a user be responsible for any of these assesment criteria or does it need to be a trusted entity?
 
 **Assessment: Score ? = Level ?**
+
+### Element D: Monitoring
+
+This relates to monitoring the use of a Credential.
+
+**1**
+Transactions attributed to a Credential, identified by a public key, can be seen on the blockchain so they can be monitored. It is also possible to monitor transaction as they are queued for processing.
+
+An Authentication Provider cannot revoke a private public key Credential. The Credential would have to be removed from an access list on an application itself. Eg with a smart contract.  
