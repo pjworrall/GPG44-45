@@ -57,4 +57,18 @@ This is about how the Credential is protected from compromise.
 
 **Assessment: Score 3 = Level 3**
 
+## AC Element C: Management of the Credential
+
+The criteria for assessment for managing a credential has a significant bias to a particular technology architecture. GPG44 has a role of Authentication Provider that we do not believe exists in a blockchain solution. In traditional systems the Credential itself is not controlled by the user. The user has to prove they have knowledge of a Credential that an Authentication Provider controls. This incongruency means some of the Criteria need analysis to discover what the real intent behind them is.
+
+**1**
+
+- Credentials are not stored by any other party than the user
+- Another party, the Authentication Provider, cannot suspend, revoke, or restore a Credential. If the objective of this is to take control of a Credential on behalf of a user, in the case of a loss or theft, then this would be achieved by another means in a blockchain solution. For example, a service implemented as a smart contract might remove a public address from an access list.
+- Another party, the Authentication Provider, cannot influence can change the state of a Credential only the services that credential has access to.
+- Credentials are implicitly bound to one account, technically a public key, and the Authentication Provider has no control over that.
+- The issuing process for a Credential is completely under the control of the user and an Authentication Provider has no control over that.
+- The Credential is implicitly under the control of the user and an  Authentication Provider has no influence over that.
+- The user can chose a tool provider to produce their Credentials and would make a choice based on marketed quality management processes.
+- The tool used by a user for Credential creation and administration would be responsible for adherence to industry standards like ISO27001. **A point here is again whether the application feels users cannot be trusted to choose appropriate tools for their Credential management**.
 
