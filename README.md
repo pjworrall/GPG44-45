@@ -49,7 +49,7 @@ This relates to types of Credentials used to support Authentication to HMG onlin
 
 **Assessment: Score 3 = Level 3**
 
-AC Element B: Quality of the Credential
+### AC Element B: Quality of the Credential
 
 This is about how the Credential is protected from compromise.
 
