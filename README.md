@@ -27,9 +27,19 @@ GPG44 is Issue No. 2.0, October 2014
 
 [GPG45](https://webarchive.nationalarchives.gov.uk/20150514214143/https://www.gov.uk/government/publications/identity-proofing-and-verification-of-an-individual) is Issue No. 2.3, July 2014
 
-# GPG44 – Chapter 2 – Minimum Authentication Outcomes
+# GPG44 Authentication and Credentials for use with HMG Online Services
 
-## AC Element A: Credential Type
+## Note
+
+When considering each point in the GPG44 you can see that the architecture was that an entity, an organisation, institution or other body would be controlling the authorisation solution. However, in a decentralised architecture like blockchain the assumptions no longer hold. Therefore when translating the points in the document the **requirement** needs to be discovered which may never have been properly articulated in the creation of the GPG because of the bias that existed in the minds of the contributors.
+
+If anyone knows of a canonical list of requirements or objectives on which the criteria are derived please let us know but, otherwise, we do plan to attempt to produce some. These may help form a reference for other blockchain solutions to frame how their architecture addresses the real underlying concerns.
+
+> For example: If a user of a blockchain network uses a device to create their private and public key, used as a Credential, chooses their own tool to generate the them, is that acceptable? We ask because if that was used to collect a benefit payment from the Government and the key was guessed and used for a claim by an imposter, who is liable for the loss? The user, a benefit claiment, or the Government ? If the user had used a poor key creation tool is it right for them to be considered liable? Are they responsible enough to make an informed choice? Should the Government provide the tool to ensure it meets the requirements for key generation for a benefit claiment service?
+
+## Chapter 2 – Minimum Authentication Outcomes
+
+### AC Element A: Credential Type
 
 This relates to types of Credentials used to support Authentication to HMG online services. There are three categories whose scores relate to Level 1-3 of minimum outcomes.
 
@@ -57,7 +67,7 @@ This is about how the Credential is protected from compromise.
 
 **Assessment: Score 3 = Level 3**
 
-## AC Element C: Management of the Credential
+### AC Element C: Management of the Credential
 
 The criteria for assessment for managing a credential has a significant bias to a particular technology architecture. GPG44 has a role of Authentication Provider that we do not believe exists in a blockchain solution. In traditional systems the Credential itself is not controlled by the user. The user has to prove they have knowledge of a Credential that an Authentication Provider controls. This incongruency means some of the Criteria need analysis to discover what the real intent behind them is.
 
