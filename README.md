@@ -72,3 +72,16 @@ The criteria for assessment for managing a credential has a significant bias to 
 - The user can chose a tool provider to produce their Credentials and would make a choice based on marketed quality management processes.
 - The tool used by a user for Credential creation and administration would be responsible for adherence to industry standards like ISO27001. **A point here is again whether the application feels users cannot be trusted to choose appropriate tools for their Credential management**.
 
+**2**
+
+- the user creates their Credential so it is guaranteed that the right person is in possession of it.
+- the user can chose a Credential administration tool provider who has an independently audited quality management process (ISO9000)
+- blockchain Credentials,private and public keys, have no information embedded in them so there is no requirement for a security management system around the Credential but the application where the Credential is used, that will probably bind the Credential to information, may need a management system that has been independently audited
+
+**3**
+- user create their own Credentials so there is no delivery to manage
+- if the user has chosen a tool from a manufacturer it is their choice and can only be advised to ensure their vendor has an independently certified quality management process
+- again, the user choses the vendor for their Credential creation and management and can only be advised to chose one that has an independent certification for its information security management system. In this case it might be assurance that the random number generator has sufficient entropy.
+
+
+
