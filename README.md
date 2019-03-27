@@ -102,6 +102,17 @@ The criteria for assessment for managing a credential has a significant bias to 
 This relates to monitoring the use of a Credential.
 
 **1**
-Transactions attributed to a Credential, identified by a public key, can be seen on the blockchain so they can be monitored. It is also possible to monitor transaction as they are queued for processing.
+- Transactions attributed to a Credential, identified by a public key, can be seen on the blockchain so they can be monitored. It is also possible to monitor transaction as they are queued for processing.
 
-An Authentication Provider cannot revoke a private public key Credential. The Credential would have to be removed from an access list on an application itself. Eg with a smart contract.  
+- An Authentication Provider cannot revoke a private public key Credential. The Credential would have to be removed from an access list on an application itself. Eg with a smart contract.  
+
+**2**
+- there is no authentication behaviour, such as repated login attempts on a conventional system, with blockchain
+- ditto
+
+**3**
+- a new HMG service would be required to report compromised public key Credentials but that could be easily implemented with a smart contract containing a black list on the blockchain.
+
+
+
+
