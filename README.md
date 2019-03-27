@@ -27,4 +27,17 @@ GPG44 is Issue No. 2.0, October 2014
 
 [GPG45](https://webarchive.nationalarchives.gov.uk/20150514214143/https://www.gov.uk/government/publications/identity-proofing-and-verification-of-an-individual) is Issue No. 2.3, July 2014
 
+# GPG44 – Chapter 2 – Minimum Authentication Outcomes
+
+## AC Element A: Credential Type
+
+This relates to types of Credentials used to support Authentication to HMG online services. There are three categories whose scores relate to Level 1-3 of minimum outcomes.
+
+**1** The credential in blockchain would be possession of a private key. Signing a transaction that includes the associated public key and submitting it to the network would prove that the user is in possession of the private key (Secret).
+
+**3** The private key is a Credential type that demonstrates the user is in possession of something equivalent to a hardware or software token. The current requirement is biased to a particular technical solution and could be improved by spelling out support for cryptographic private keys
+
+**Assessment: Score 3 = Level 3**
+
+
 
