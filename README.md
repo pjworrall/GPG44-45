@@ -117,3 +117,15 @@ This relates to monitoring the use of a Credential.
 
 **Assessment: Score 3 = Level 3**
 
+## AC Element E: Authentication Service Characteristics
+
+There is no login, or similar authentication service, unless you consider the cryptographic algorithms for controlling state changes on the blockchain itself as such. It is also important to remember that most blockchains require a form of token credit to exist to be able to make any state changes to the blockchain at all. Access to this token credit is limited and once exhausted would need to be acquired at which time it could be identified and denied.
+
+**1**
+- The Authentication Provider for a blockchain would be a collective. As there are many parties integrated into the blockchain as a distributed ledger ALL are involved in the Governance process which would include the protocols for assuring integrity of the blockchain.
+- It is the protocols and algorithms inherent in the blockchain operated by the network participants that implicitly assure the transactions are authentic.
+- It would be the responsibility of an application, smart contract, to reject a transaction from a compromised Credential.
+- All network session access to the blockchain is HTTPS based
+- All common forms of session control and trustworthiness are supported including digital certificates.
+- All network participants would be required to meet a standard security profile on the computers they use to participate in the blockchains
+
