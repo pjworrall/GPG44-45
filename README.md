@@ -21,4 +21,10 @@ We have worked through GPG44 and 45 and attempted to consider each assessment ch
 
 We have put this document on GitHub so we can invite others to contribute to improve its accuracy. We encourage people to contribute and really appreciate any feedback.
 
-We tackle GPG45 first and then GPG44.
+We tackle GPG44 first and then GPG45.
+
+GPG44 is Issue No. 2.0, October 2014
+
+[GPG45](https://webarchive.nationalarchives.gov.uk/20150514214143/https://www.gov.uk/government/publications/identity-proofing-and-verification-of-an-individual) is Issue No. 2.3, July 2014
+
+
