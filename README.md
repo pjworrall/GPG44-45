@@ -1,9 +1,9 @@
 # GPG44-45
-An assesment of the Zonafide solution against HMG Good Practice Guides for Identity Proofing and Identification of an Individual (GPG44) , and Authentication and Credentials (GPG45).
+An assesment of the Zonafide solution against HMG Good Practice Guides for Identity Proofing and Verification of an Individual (GPG45) , and Authentication and Credentials (GPG44).
 
 # Introduction
 
-Discussions with the UK Cabinet Office/GDS, the UK Department for Digital, Media, Culture and Sport, HMRC and others concluded that they see Zonafide as a facilitator of identity and entitlement proofing. This document sets out what our position had originally been on identity and how we compare to HMG Good Practice Guides for Identity Proofing (GPG44) and Identification of an Individual and Authentication and Credentials (GPG45) for use with HMG Online Services.
+Discussions with the UK Cabinet Office/GDS, the UK Department for Digital, Media, Culture and Sport, HMRC and others concluded that they see Zonafide as a facilitator of identity and entitlement proofing. This document sets out what our position had originally been on identity and how we compare to HMG Good Practice Guides for Identity Proofing (GPG45) and Identification of an Individual and Authentication and Credentials (GPG44) for use with HMG Online Services.
 
 We, until recently, would have said Zonafide “Did not do Identity”. Our design principles focussed on People, Activities and Collaboration. Our focus was ensuring people could control the activities they were involved with and had an easy way to collaborate to stop imposters falsifying them. We felt identity was the focus of organisations wanting to “know” who people were to protect their business rather than the public. For example, organisations need to check credit information to reduce the risk of a bad debt or check a sanctions list to ensure they do not do business with someone resident in a prohibited country.
 
