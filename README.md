@@ -1,5 +1,5 @@
 # GPG44-45
-An assesment of the Zonafide solution against HMG Good Practice Guides 44 and 45
+An assesment of the Zonafide solution against HMG Good Practice Guides for Identity Proofing (GPG44) and Identification of an Individual, and Authentication and Credentials (GPG45).
 
 # Introduction
 
